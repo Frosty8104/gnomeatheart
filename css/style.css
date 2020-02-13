@@ -1,0 +1,268 @@
+/* GNOME AT HEART STYLESHEET */
+body {
+    background: #3c308c;
+    color: #ffffff;
+    font-family: 'Open Sans', sans serif; 
+    max-width: 1200px;
+}
+/* BACKGROUND */
+#bg {
+  position: relative;
+  top: 0; 
+  left: 0; 
+  height: 100%;
+}
+#bg ul li {
+  display: inline-block;
+}
+#bg ul li a {
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: none;
+  text-shadow: 2px 2px #3c308c;
+}
+#bg ul li a:hover {
+  color: #ebebeb;
+}
+#bg img {
+  position: absolute;
+  top: 650px; 
+  left: 400px; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 90%;
+  min-height: 90%;
+}
+/* NAVIGATION */
+#roster {
+  width: 25%;
+  margin-top: 50px;
+  float: left;
+}
+nav {
+  list-style-type: inline-block;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+nav ul li {
+    display: block;
+    font-size: 16px;
+}
+/* GENEALOGY */
+h1 {
+  padding-bottom: 100px;
+  margin-left: 650px;
+}
+.ire {
+  text-align: right;
+  position: absolute;
+  left: 860px;
+  top: 130px;
+}
+.sara {
+  position: absolute;
+  left: 950px;
+  top: 130px;
+}
+.ny {
+  text-align: center;
+  position: absolute;
+  left: 840px;
+  top: 200px;
+}
+.raz {
+  position: absolute;
+  left: 1225px;
+  top: 320px;
+}
+.boum {
+  position: absolute;
+  left: 425px;
+  top: 920px;
+}
+.soly {
+  position: absolute;
+  left: 1365px;
+  top: 915px;
+}
+.gnawm {
+  text-align: center;
+  position: absolute;
+  left: 460px;
+  top: 750px;
+}
+.ell {
+  position: absolute;
+  left: 420px;
+  top: 695px;
+}
+.quyl {
+  position: absolute;
+  left: 700px;
+  top: 650px;
+}
+.brom {
+  position: absolute;
+  left: 540px;
+  top: 580px;
+}
+.em {
+  position: absolute;
+  left: 460px;
+  top: 420px;
+}
+.jyn {
+  position: absolute;
+  left: 360px;
+  top: 345px;
+}
+.tam {
+  position: absolute;
+  left: 400px;
+  top: 260px;
+}
+.lina {
+  text-align: center;
+  position: absolute;
+  left: 670px;
+  top: 80px;
+}
+.kiri {
+  text-align: center;
+  position: absolute;
+  left: 800px;
+  top: 80px;
+}
+.ruff {
+  position: absolute;
+  left: 480px;
+  top: 130px;  
+}
+.nuff {
+  position: absolute;
+  left: 790px;
+  top: 405px;
+}
+.muff {
+  position: absolute;
+  left: 560px;
+  top: 130px;   
+}
+.tuff {
+  position: absolute;
+  left: 620px;
+  top: 290px;   
+}
+.moya {
+  position: absolute;
+  left: 660px;
+  top: 490px;
+}
+.lyri {
+  position: absolute;
+  left: 1055px;
+  top: 170px;  
+}
+.nuffy {
+  position: absolute;
+  left: 1000px;
+  top: 80px;  
+}
+.niq {
+  position: absolute;
+  left: 1145px;
+  top: 80px;  
+}
+.sny {
+  position: absolute;
+  left: 1050px;
+  top: 390px;
+}
+.doom {
+  text-align: center;
+  position: absolute;
+  left: 1300px;
+  top: 760px;
+}
+.taly {
+  position: absolute;
+  left: 1150px;
+  top: 490px;  
+}
+.gnome {
+  text-align: center;
+  position: absolute;
+  left: 1400px;
+  top: 710px;
+}
+.noum {
+  position: absolute;
+  left: 1450px;
+  top: 260px;
+}
+.roam {
+  position: absolute;
+  left: 1450px;
+  top: 375px;
+}
+.gopher {
+  position: absolute;
+  left: 1235px;
+  top: 140px;
+}
+.tanky {
+  position: absolute;
+  left: 1350px;
+  top: 160px;
+}
+.note {
+  position: absolute;
+  left: 600px;
+  top: 1000px;
+  text-shadow: 2px 2px #3c308c;
+}
+.stories a {
+  position: absolute;
+  left: 895px;
+  top: 715px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: 2px 2px #3c308c;
+}
+/* CHARACTERS */
+h3 {
+  position: absolute;
+  left: 900px;
+  top: 510px;
+  text-shadow: 2px 2px #3c308c;
+}
+p {
+  text-shadow: 2px 2px #3c308c;
+}
+.race {
+  position: absolute;
+  left: 900px;
+  top: 540px;
+}
+.class {
+  position: absolute;
+  left: 900px;
+  top: 560px;
+}
+.spec {
+  position: absolute;
+  left: 900px;
+  top: 580px;
+}
+/* BLOG */
+img {
+  width: 30px;
+  padding-right: 10px;
+}
+#blog-area {
+  padding-left: 100px;
+}
+
